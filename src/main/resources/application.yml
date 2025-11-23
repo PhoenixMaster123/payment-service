@@ -4,3 +4,7 @@ server:
 spring:
   application:
     name: payment-service
+
+stripe:
+  secret:
+    key: ${STRIPE_SECRET_KEY}
