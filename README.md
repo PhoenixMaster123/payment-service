@@ -10,6 +10,6 @@ STRIPE_SECRET_KEY=sk_test_51SP4i048UQ14aUAVo5tgMocTjjoXSHDq9T7JeNlirPO6PnV17Fqtm
 
 Example test card for the checkout page:
 
-Card number: 4242 4242 4242 4242
-Expiration date: any future date
-Security code: any three digits
+Card number: 4242 4242 4242 4242<br>
+Expiration date: any future date<br>
+Security code: any three digits<br>
