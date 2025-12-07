@@ -4,7 +4,7 @@ You need to have Stripe set up in order to view transactions using your own publ
 
 ```bash
 
-STRIPE_SECRET_KEY=sk_test_51SP4i048UQ14aUAVo5tgMocTjjoXSHDq9T7JeNlirPO6PnV17FqtmPXXZeWxv5ImQnJKTQ8GmSb9JkchZsI8i6Bp005l295pv0
+STRIPE_SECRET_KEY=
 
 ```
 
